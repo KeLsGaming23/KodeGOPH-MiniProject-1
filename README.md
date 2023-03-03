@@ -1,3 +1,2 @@
-TinDog Starting Files
-# MiniProject-1-KOdeGOPH-
-# MiniProject-1-KOdeGOPH-
+Kels CV Website
+Mini Project in KOdeGOPH # 1
